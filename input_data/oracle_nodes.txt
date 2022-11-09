@@ -1,0 +1,27 @@
+
+PROD1 =
+    (DESCRIPTION = 
+	(ADDRESS = (PROTOCOL = TCP) (HOST = host.oracleexample1.com)(PORT = 1521))
+	(CONNECT_DATA = 
+          (SERVER = DEDICATED)
+	  (SERVICE_NAME = PROD1)
+	)
+)
+
+PROD2 =
+    (DESCRIPTION = 
+	(ADDRESS = (PROTOCOL = TCP) (HOST = host.oracleexample2.com)(PORT = 1521))
+	(CONNECT_DATA = 
+          (SERVER = DEDICATED)
+	  (SERVICE_NAME = PROD2)
+	)
+)
+
+PROD3 =
+    (DESCRIPTION = 
+	(ADDRESS = (PROTOCOL = TCP) (HOST = host.oracleexample3.com)(PORT = 1521))
+	(CONNECT_DATA = 
+          (SERVER = DEDICATED)
+	  (SERVICE_NAME = PROD3)
+	)
+)
