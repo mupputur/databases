@@ -38,6 +38,6 @@ if __name__ == "__main__":
     #connect_database(host='localhost', port='1521', username='system', password='Murali777@', service_name='orclpdb')
     #r=get_table_data("customer_1")
     #print(r)
-    #h=get_table_headers('customer_1')
-    #print(h)
+    h=get_table_headers('customer_1')
+    print(h)
 
