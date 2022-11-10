@@ -1,23 +1,23 @@
 {
     "CCER": {
-        "PROTOCOL ": " TCP",
-        "HOST ": " host.symantecexample.com",
-        "PORT ": " 1521",
-        "SERVER ": " DEDICATED",
-        "SERVICE_NAME ": " CCER"
+        "PROTOCOL": "TCP",
+        "HOST": "host.symantecexample.com",
+        "PORT": "1521",
+        "SERVER": "DEDICATED",
+        "SERVICE_NAME": "CCER"
     },
     "CCER2": {
-        "PROTOCOL ": " TCP",
-        "HOST ": " host.symantjkjkkecexample.com",
-        "PORT ": " 1521",
-        "SERVER ": " DEDICATED",
-        "SERVICE_NAME ": " PCER"
+        "PROTOCOL": "TCP",
+        "HOST": "host.symantjkjkkecexample.com",
+        "PORT": "1521",
+        "SERVER": "DEDICATED",
+        "SERVICE_NAME": "PCER"
     },
     "CCER3": {
-        "PROTOCOL ": " TCP",
-        "HOST ": " host.kingxample.com",
-        "PORT ": " 1521",
-        "SERVER ": " DEDICATED",
-        "SERVICE_NAME ": " PCERLI"
+        "PROTOCOL": "TCP",
+        "HOST": "host.kingxample.com",
+        "PORT": "1521",
+        "SERVER": "DEDICATED",
+        "SERVICE_NAME": "PCERLI"
     }
 }
